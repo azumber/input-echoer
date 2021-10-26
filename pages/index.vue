@@ -1,9 +1,7 @@
 <template>
   <div>
-    <Tutorial/>
-    <h1>Hello world!</h1>
+    <InputEchoer/>
   </div>
-  
 </template>
 
 <script>
